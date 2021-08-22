@@ -10,4 +10,6 @@ We did :
 - First, explore baseline search methods (e.g. alpha beta seach) to gain a stronger understanding of the deficiencies in that elementary approach.
 - Then, use heuristics features combined with genetic algorithms to get the best weight of these features.
 - After that, we test MCTS method to find how good it is compare to the previous one
-- Finally, we try to combine the deep learning approach with MCTS like AlphaGo Zero.
+
+It has to be done:
+- Try to combine the deep learning approach with MCTS like AlphaGo Zero.
